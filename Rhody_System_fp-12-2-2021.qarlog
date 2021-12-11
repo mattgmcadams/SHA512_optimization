@@ -1,0 +1,85 @@
+Quartus Prime Archive log --	/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/Rhody_System_fp-12-2-2021.qarlog
+
+Archive:	/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/Rhody_System_fp-12-2-2021.qar
+Date:		Thu Dec  2 16:07:13 2021
+Quartus Prime		20.1.1 Build 720 11/11/2020 SJ Lite Edition
+
+	=========== Files Selected: ===========
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/ALU.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/KROM.cmp
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/KROM.qip
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/KROM.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/VROM.cmp
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/VROM.qip
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/VROM.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/VROM1.cmp
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/VROM1.qip
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/VROM1.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/ascii_char_rom.mif
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/debounce.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/gpio.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/i2c_touch_config.v
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/k2a.mif
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/keyboard.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/maze_char_rom.mif
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/random.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/sevenseg.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/timer.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vga1.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vga2.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vga3.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vgapll.cmp
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vgapll.qip
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vgapll.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vgapll/vgapll_0002.qip
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vgapll/vgapll_0002.v
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vramg.cmp
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vramg.qip
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vramg.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vramg1.cmp
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vramg1.qip
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vramg1.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vramg2.cmp
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vramg2.qip
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vramg2.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vramt.cmp
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vramt.qip
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vramt.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vramt1.cmp
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vramt1.qip
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/IO/vramt1.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/Library.hex
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/Rhody_CLI.hex
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/Rhody_CPU.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/Rhody_CPU_pipe.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/Rhody_CPU_pipe_BP.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/Rhody_System.qpf
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/Rhody_System.qsf
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/Rhody_System.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/Rhody_System_assignment_defaults.qdf
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/add_sub.cmp
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/add_sub.qip
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/add_sub.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/assignment_defaults.qdf
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/buf_mem.cmp
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/buf_mem.qip
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/buf_mem.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/data_mem.cmp
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/data_mem.qip
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/data_mem.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/ext_mem.cmp
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/ext_mem.qip
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/ext_mem.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/prog_rom.cmp
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/prog_rom.qip
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/prog_rom.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/stack_mem.cmp
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/stack_mem.qip
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/stack_mem.vhd
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/sys_rom.cmp
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/sys_rom.qip
+/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/sys_rom.vhd
+	======= Total: 74 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

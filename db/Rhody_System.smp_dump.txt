@@ -1,0 +1,36 @@
+
+State Machine - |Rhody_System|i2c_touch_config:Terasic_Touch_IP|c_state
+Name c_state.1001 c_state.1000 c_state.0111 c_state.0110 c_state.0101 c_state.0100 c_state.0011 c_state.0010 c_state.0001 c_state.0000 
+c_state.0000 0 0 0 0 0 0 0 0 0 0 
+c_state.0001 0 0 0 0 0 0 0 0 1 1 
+c_state.0010 0 0 0 0 0 0 0 1 0 1 
+c_state.0011 0 0 0 0 0 0 1 0 0 1 
+c_state.0100 0 0 0 0 0 1 0 0 0 1 
+c_state.0101 0 0 0 0 1 0 0 0 0 1 
+c_state.0110 0 0 0 1 0 0 0 0 0 1 
+c_state.0111 0 0 1 0 0 0 0 0 0 1 
+c_state.1000 0 1 0 0 0 0 0 0 0 1 
+c_state.1001 1 0 0 0 0 0 0 0 0 1 
+
+State Machine - |Rhody_System|i2c_touch_config:Terasic_Touch_IP|i2c_master_byte_ctrl:byte_controller|c_state
+Name c_state.ST_IDLE c_state.ST_STOP c_state.ST_ACK c_state.ST_WRITE c_state.ST_READ c_state.ST_START 
+c_state.ST_IDLE 0 0 0 0 0 0 
+c_state.ST_START 1 0 0 0 0 1 
+c_state.ST_READ 1 0 0 0 1 0 
+c_state.ST_WRITE 1 0 0 1 0 0 
+c_state.ST_ACK 1 0 1 0 0 0 
+c_state.ST_STOP 1 1 0 0 0 0 
+
+State Machine - |Rhody_System|random:Pseudo_Random|SV
+Name SV.s10 SV.s9 SV.s8a SV.s8 SV.s7 SV.s6 SV.s5 SV.s4 SV.s3 SV.s2 SV.s1 
+SV.s1 0 0 0 0 0 0 0 0 0 0 0 
+SV.s2 0 0 0 0 0 0 0 0 0 1 1 
+SV.s3 0 0 0 0 0 0 0 0 1 0 1 
+SV.s4 0 0 0 0 0 0 0 1 0 0 1 
+SV.s5 0 0 0 0 0 0 1 0 0 0 1 
+SV.s6 0 0 0 0 0 1 0 0 0 0 1 
+SV.s7 0 0 0 0 1 0 0 0 0 0 1 
+SV.s8 0 0 0 1 0 0 0 0 0 0 1 
+SV.s8a 0 0 1 0 0 0 0 0 0 0 1 
+SV.s9 0 1 0 0 0 0 0 0 0 0 1 
+SV.s10 1 0 0 0 0 0 0 0 0 0 1 
