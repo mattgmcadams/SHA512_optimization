@@ -1,0 +1,20 @@
+Fitter Status : Successful - Thu Dec 16 22:49:16 2021
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : Rhody_System
+Top-level Entity Name : Rhody_System
+Family : Cyclone V
+Device : 5CSEMA5F31C6
+Timing Models : Final
+Logic utilization (in ALMs) : 3,242 / 32,070 ( 10 % )
+Total registers : 1803
+Total pins : 86 / 457 ( 19 % )
+Total virtual pins : 0
+Total block memory bits : 3,225,600 / 4,065,280 ( 79 % )
+Total RAM Blocks : 393 / 397 ( 99 % )
+Total DSP Blocks : 4 / 87 ( 5 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1 / 6 ( 17 % )
+Total DLLs : 0 / 4 ( 0 % )

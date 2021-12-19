@@ -1,0 +1,149 @@
+Restore Archived Project report for Rhody_System
+Thu Dec  9 11:48:56 2021
+Quartus Prime Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2020  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Thu Dec  9 11:48:56 2021 ;
+; Revision Name                   ; Rhody_System                          ;
+; Top-level Entity Name           ; Rhody_System                          ;
+; Family                          ; Cyclone V                             ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored '/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev.qar' into the '/u/ugrads/matt_mcadams/Desktop/Rhody_System_Rev_restored/' directory
+Info: Generated report 'Rhody_System.restore.rpt'
+Info (23030): Evaluation of Tcl script /net/usr/quartus20.1_lite/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 76 warnings
+    Info: Peak virtual memory: 598 megabytes
+    Info: Processing ended: Thu Dec  9 11:48:56 2021
+    Info: Elapsed time: 00:00:00
+    Info: Total CPU time (on all processors): 00:00:00
+
+
++----------------+
+; Files Restored ;
++----------------+
+; File Name      ;
++----------------+
+
+
++--------------------------------------+
+; Files Not Restored                   ;
++--------------------------------------+
+; File Name                            ;
++--------------------------------------+
+; qar_info.json                        ;
+; ALU.vhd                              ;
+; IO/KROM.cmp                          ;
+; IO/KROM.qip                          ;
+; IO/KROM.vhd                          ;
+; IO/VROM.cmp                          ;
+; IO/VROM.qip                          ;
+; IO/VROM.vhd                          ;
+; IO/VROM1.cmp                         ;
+; IO/VROM1.qip                         ;
+; IO/VROM1.vhd                         ;
+; IO/ascii_char_rom.mif                ;
+; IO/debounce.vhd                      ;
+; IO/gpio.vhd                          ;
+; IO/i2c_touch_config.v                ;
+; IO/k2a.mif                           ;
+; IO/keyboard.vhd                      ;
+; IO/maze_char_rom.mif                 ;
+; IO/random.vhd                        ;
+; IO/sevenseg.vhd                      ;
+; IO/timer.vhd                         ;
+; IO/vga1.vhd                          ;
+; IO/vga2.vhd                          ;
+; IO/vga3.vhd                          ;
+; IO/vgapll.cmp                        ;
+; IO/vgapll.qip                        ;
+; IO/vgapll.vhd                        ;
+; IO/vgapll/vgapll_0002.qip            ;
+; IO/vgapll/vgapll_0002.v              ;
+; IO/vramg.cmp                         ;
+; IO/vramg.qip                         ;
+; IO/vramg.vhd                         ;
+; IO/vramg1.cmp                        ;
+; IO/vramg1.qip                        ;
+; IO/vramg1.vhd                        ;
+; IO/vramg2.cmp                        ;
+; IO/vramg2.qip                        ;
+; IO/vramg2.vhd                        ;
+; IO/vramt.cmp                         ;
+; IO/vramt.qip                         ;
+; IO/vramt.vhd                         ;
+; IO/vramt1.cmp                        ;
+; IO/vramt1.qip                        ;
+; IO/vramt1.vhd                        ;
+; Library.hex                          ;
+; Rhody_CLI.hex                        ;
+; Rhody_CPU.vhd                        ;
+; Rhody_CPU_pipe.vhd                   ;
+; Rhody_CPU_pipe_BP.vhd                ;
+; Rhody_System.qpf                     ;
+; Rhody_System.qsf                     ;
+; Rhody_System.vhd                     ;
+; Rhody_System_assignment_defaults.qdf ;
+; add_sub.cmp                          ;
+; add_sub.qip                          ;
+; add_sub.vhd                          ;
+; assignment_defaults.qdf              ;
+; buf_mem.cmp                          ;
+; buf_mem.qip                          ;
+; buf_mem.vhd                          ;
+; data_mem.cmp                         ;
+; data_mem.qip                         ;
+; data_mem.vhd                         ;
+; ext_mem.cmp                          ;
+; ext_mem.qip                          ;
+; ext_mem.vhd                          ;
+; prog_rom.cmp                         ;
+; prog_rom.qip                         ;
+; prog_rom.vhd                         ;
+; stack_mem.cmp                        ;
+; stack_mem.qip                        ;
+; stack_mem.vhd                        ;
+; sys_rom.cmp                          ;
+; sys_rom.qip                          ;
+; sys_rom.vhd                          ;
++--------------------------------------+
+
+

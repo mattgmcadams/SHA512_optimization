@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Thu Dec 16 22:43:03 2021
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : Rhody_System
+Top-level Entity Name : Rhody_System
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 1752
+Total pins : 86
+Total virtual pins : 0
+Total block memory bits : 3,225,600
+Total DSP Blocks : 4
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1
+Total DLLs : 0
